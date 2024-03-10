@@ -2,8 +2,3 @@ first row
 second row
 third row
 fourth row
-
-
-new line 1
-
-new line 2
